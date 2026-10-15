@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 ## Estatistics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluetrain-dream&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluetrain-dream&layout=compact&langs_count=8&card_width=320%22"/>
 
-https://github-readme-stats.vercel.app/api/top-langs?username=bluetrain-dream&layout=compact&langs_count=8&card_width=320%22
+

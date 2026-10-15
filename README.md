@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45" /> <h3>Linguagem HTML5 </h3> <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45" /> <h3>Linguagem CSS3 </h3> <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" width="45" height="45" /> <h3> mySQL/MariaDb </h3> <br>
-<img src="https://github.com/bluetrain-dream/bluetrain-dream/blob/main/github.svg" width="45" height="45" /> <h3> Plataforma GitHub </h3> <br>
+<img src="https://github.com/bluetrain-dream/bluetrain-dream/blob/main/github.svg" width="100" height="100" /> <h3> Plataforma GitHub </h3> <br>
 <br>
 
 

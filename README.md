@@ -3,11 +3,6 @@
 
 **bluetrain-dream/bluetrain-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Technologies
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GITHUB
@@ -18,3 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## *Technologies*
+### Linux user 
+![](../5O9sHAkaSemBv9_vbT4v4Q/fedora-logo.svg)
+
+
+
+## *Knownledgements*
+### Web Site Languages
+- HTML4/5 Format language
+- CSS Format language
+- PHP Languages
+
+### Tecnologias que Vou Aprender
+
+- C Language
+- 

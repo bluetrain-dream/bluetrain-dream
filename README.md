@@ -1,5 +1,5 @@
 ## Carlos Gomes
-#### Born in 1970
+#### Técnico/a de Desenvolvimento de Software
 
 **bluetrain-dream/bluetrain-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 
 - C Language
 - 
+
+
+## Estatistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluetrain-dream&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluetrain-dream&layout=compact&theme=tokyonight%22/>

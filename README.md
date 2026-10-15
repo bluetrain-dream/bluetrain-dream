@@ -1,8 +1,12 @@
 ## Carlos Gomes
-### Born in 1970
-
+#### Born in 1970
 
 **bluetrain-dream/bluetrain-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Technologies
+
+
+
 
 Here are some ideas to get you started:
 

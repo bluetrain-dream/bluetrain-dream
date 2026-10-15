@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/bluetrain-dream/bluetrain-dream/blob/main/github.svg" width="100" height="100" /> <h3> Plataforma GitHub </h3> <br>
 <br>
 
-
-
-## Estatistics
+## *Estatistics*
 <br>
 
 <p align="center">

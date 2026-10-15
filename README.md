@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## *Technologies*
 ### Linux user 
-![](../5O9sHAkaSemBv9_vbT4v4Q/fedora-logo.svg)
 
 
 

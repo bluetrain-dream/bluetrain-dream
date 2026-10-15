@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ### Tecnologies that I will learn
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="45" height="45" /> <h3>Linguagem C </h3> <br>
-<img src="icons/html5/html5-original.svg" width="45" height="45" /> <h3>Linguagem HTML5 </h3> <br>
-<img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" /> <br>
-<img src="https://githubusercontent.com" alt="mySQL/MariaDb" width="45" height="45" /> <br>
-<img src="https://githubusercontent.com" alt="GitHub" width="45" height="45" /> <br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45" /> <h3>Linguagem HTML5 </h3> <br>
+<img src="https://githubusercontent.com" width="45" height="45" /> <h3>Linguagem CSS3 </h3> <br>
+<img src="https://githubusercontent.com" width="45" height="45" /> <h3> mySQL/MariaDb </h3> <br>
+<img src="https://githubusercontent.com" width="45" height="45" /> <h3> Plataforma GitHub </h3> <br>
 
 <br>
 

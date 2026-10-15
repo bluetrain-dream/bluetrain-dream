@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 ## *Technologies*
 ### Linux user 
-<img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" /> <br>
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="CSS3" width="45" height="45" /> <br>
 
 ## *Knownledgements*
 ### Web Site Languages

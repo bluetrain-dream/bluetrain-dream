@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... You are so curious...hummmm
 
 ## *Technologies*
-### Linux user 
+### Linux user / Windows user
 <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="CSS3" width="45" height="45" /> <br>
 
 ## *Knownledgements*

@@ -29,15 +29,14 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="45" height="45" /> <h3>Linguagem C </h3> <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45" /> <h3>Linguagem HTML5 </h3> <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45" /> <h3>Linguagem CSS3 </h3> <br>
-<img src="[https://githubusercontent.com](https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg)" width="45" height="45" /> <h3> mySQL/MariaDb </h3> <br>
-<img src="https://githubusercontent.com" width="45" height="45" /> <h3> Plataforma GitHub </h3> <br>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" width="45" height="45" /> <h3> mySQL/MariaDb </h3> <br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" height="45" /> <h3> Plataforma GitHub </h3> <br>
 <br>
 
 
 
 ## Estatistics
-
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluetrain-dream&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
